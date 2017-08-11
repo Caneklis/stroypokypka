@@ -1,0 +1,38 @@
+{
+  "name": "stroypokypka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caneklis/stroypokypka.git"
+  },
+  "author": "Alex Lesukhin",
+  "devDependencies": {
+    "autoprefixer": "6.4.1",
+    "browser-sync": "2.15.0",
+    "css-mqpacker": "^6.0.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-less": "^3.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-svgmin": "^1.2.4",
+    "gulp-svgstore": "^6.1.0",
+    "run-sequence": "^2.0.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caneklis/stroypokypka/issues"
+  },
+  "homepage": "https://github.com/Caneklis/stroypokypka#readme",
+  "dependencies": {
+    "del": "^3.0.0"
+  }
+}
